@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <defs>
+        <style>
+            .thin, .bold {
+                fill: none;
+            }
+
+            .thin {
+                stroke: #c1c5ce;
+            }
+
+            .bold {
+              stroke: #7a7a7a;
+            }
+        </style>
+    </defs>
+    <g transform="translate(-0.5 -0.5)">
+        <g transform="translate(-0.5)">
+            <line class="thin" y2="100" transform="translate(10.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(20.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(30.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(40.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(50.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(60.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(70.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(80.5 0.5)"/>
+            <line class="thin" y2="100" transform="translate(90.5 0.5)"/>
+        </g>
+        <g transform="translate(0 -0.5)">
+            <line class="thin" x2="100" transform="translate(0.5 10.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 20.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 30.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 40.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 50.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 60.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 70.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 80.5)"/>
+            <line class="thin" x2="100" transform="translate(0.5 90.5)"/>
+        </g>
+        <g>
+            <line class="bold" y1="100" transform="translate(100 0.5)"/>
+            <line class="bold" x2="100" transform="translate(0.5 100)"/>
+        </g>
+    </g>
+</svg>
